@@ -18,4 +18,4 @@ do
 done
 gcc -o main *.o
 ./main
-rm -rf *.o
+rm -rf *.o main
